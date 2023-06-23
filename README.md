@@ -1,5 +1,5 @@
 # wired-remote
-## connections
-D3->ENABLEAPIN(ENA)
-D4->IN1
-D5->IN2
+## connections \n
+D3->ENABLEAPIN(ENA)\n
+D4->IN1 \n
+D5->IN2 \n
